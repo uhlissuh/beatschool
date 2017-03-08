@@ -3,6 +3,18 @@
 }
 
 .intro-text {
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: 175px;
+  padding-right: 175px;
+}
+
+li {
+  margin: 7px;
+}
+
+ul {
+  margin-top: 20px;
+}
+
+.list {
+  /*padding-left: 70px;*/
 }
