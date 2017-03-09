@@ -31,12 +31,20 @@ font-size: 18px;
   padding-right: 5px;
 }
 
-.links {
+.link-tag {
   font-family: 'Roboto', sans-serif;
   font-size: 24px;
   padding-bottom: 35px;
 }
 
-.link-tag {
-  padding: 12px;
+
+@media (max-width: 600px) {
+  .links {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    padding-bottom: 35px;
+  }
+  .link-tag {
+    padding: 10px;
+  }
 }
