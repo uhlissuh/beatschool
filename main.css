@@ -33,5 +33,14 @@ padding-right: 200px;
 }
 
 .contact-us {
-  padding-right: 5px; 
+  padding-right: 5px;
+}
+
+.links {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+}
+
+.link-tag {
+  padding: 12px;
 }
